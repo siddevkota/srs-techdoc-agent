@@ -2,3 +2,8 @@
 __pycache__/
 *.pyc
 .venv/
+
+# Storage data files
+backend/storage/data/
+*.pkl
+*.bin
